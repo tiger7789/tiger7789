@@ -23,10 +23,8 @@ Here are some ideas to get you started:
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![GitHub forks](https://img.shields.io/github/forks/tiger7789/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/tiger7789/StrapDown.js/network/)
 [![GitHub stars](https://img.shields.io/github/stars/tiger7789/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/tiger7789/StrapDown.js/stargazers/)
-# [![Stargazers over time](https://starchart.cc/tiger7789/badges.svg)](https://starchart.cc/tiger7789/badges)
 [![GitHub followers](https://img.shields.io/github/followers/tiger7789.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tiger7789?tab=followers)
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tiger7789&theme=blue-green)](https://github.com/tiger7789/github-readme-stats)
-# [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiger7789&theme=blue-green)](https://github.com/tiger7789/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tiger7789&theme=blue-green)](https://github.com/tiger7789/github-readme-stats)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 
