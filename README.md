@@ -28,7 +28,7 @@
 
 🛠 **Skills**
 
-![Python](https://skillicons.dev/icons?i=python&theme=light) ![SQL](https://skillicons.dev/icons?i=sql&theme=light) ![PowerBI](https://skillicons.dev/icons?i=powerbi&theme=light) ![R](https://skillicons.dev/icons?i=r&theme=light) ![Excel](https://skillicons.dev/icons?i=excel&theme=light) ![Git](https://skillicons.dev/icons?i=git&theme=light) ![GitHub](https://skillicons.dev/icons?i=github&theme=light) ![Figma](https://skillicons.dev/icons?i=figma&theme=light)![anaconda](https://skillicons.dev/icons?i=anaconda&theme=light)![azure](https://skillicons.dev/icons?i=azure&theme=light)![pytorch](https://skillicons.dev/icons?i=pytorch&theme=light)![vscode](https://skillicons.dev/icons?i=vscode&theme=light)![matlab](https://skillicons.dev/icons?i=matlab&theme=light)
+![Python](https://skillicons.dev/icons?i=python&theme=light) ![R](https://skillicons.dev/icons?i=r&theme=light)  ![Git](https://skillicons.dev/icons?i=git&theme=light) ![GitHub](https://skillicons.dev/icons?i=github&theme=light) ![Figma](https://skillicons.dev/icons?i=figma&theme=light)![anaconda](https://skillicons.dev/icons?i=anaconda&theme=light)![azure](https://skillicons.dev/icons?i=azure&theme=light)![pytorch](https://skillicons.dev/icons?i=pytorch&theme=light)![vscode](https://skillicons.dev/icons?i=vscode&theme=light)![matlab](https://skillicons.dev/icons?i=matlab&theme=light)![SQL](https://skillicons.dev/icons?i=sql&theme=light) ![PowerBI](https://skillicons.dev/icons?i=powerbi&) ![Excel](https://skillicons.dev/icons?i=excel&theme=light)
 
 ---
 
