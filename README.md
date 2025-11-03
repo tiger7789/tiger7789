@@ -39,7 +39,7 @@
 📚 **Activities and Projects**
 - **St-Ride McGill**: Pioneering metro accessibility for the visually impaired.
 - **Shasha Murder Mystery Game Club**: Enhancing social connections through gaming.
-- **Way With Words NGO**: Leading efforts to enrich student life experiences.
+- **Way With Words NPO**: Leading efforts to enrich student life experiences.
 
 ---
 
